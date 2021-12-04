@@ -25,14 +25,14 @@
 - [Learning 🧠](recommendation/learning.md)
 
 ---
-
+<!-- 
 <details>
 <summary>:zap: Latest Blog Posts (Farsi)</summary>
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://miraddo.ir)
-</details>
+<!-- ➡️ [more blog posts...](https://miraddo.ir) -->
+<!-- </details> --> -->
 
 <details>
   <summary>:zap: GitHub Stats</summary>
