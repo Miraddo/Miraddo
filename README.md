@@ -28,6 +28,8 @@
 
 ### 📰 Latest Blog Posts (Farsi)
 <!-- BLOG-POST-LIST:START -->
+- [یادگیری زبان Go طراحی مسیر یادگیری – بخش دوم](https://miraddo.ir/go-design-guidelines-part2/)
+- [یادگیری زبان Go طراحی مسیر یادگیری – بخش اول](https://miraddo.ir/go-design-guidelines-part1/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more posts...](https://miraddo.ir)
