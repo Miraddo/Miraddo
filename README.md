@@ -32,7 +32,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 <!-- ➡️ [more blog posts...](https://miraddo.ir) -->
-<!-- </details> --> -->
+<!-- </details> --> 
 
 <details>
   <summary>:zap: GitHub Stats</summary>
