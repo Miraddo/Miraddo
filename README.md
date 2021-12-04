@@ -32,20 +32,18 @@
 - [Tutorials 📺](recommendation/tutorials.md)
 - [Learning 🧠](recommendation/learning.md)
 
-
 ---
 
-### 📕 Latest Blog Posts (Farsi)
-
+<details>
+<summary>:zap: Latest Blog Posts (Farsi)</summary>
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://miraddo.ir)
-
----
+</details>
 
 <details>
-  <summary> GitHub Stats</summary>
+  <summary>:zap: GitHub Stats</summary>
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miraddo)
 
