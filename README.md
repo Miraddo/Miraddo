@@ -21,6 +21,7 @@
 ### 🤓 Recommendations
 
 - [Books 📚](recommendation/books.md)
+- [Projects 📦](recommendation/projects.md)
 - [Tutorials 📺](recommendation/tutorials.md)
 - [Learning 🧠](recommendation/learning.md)
 
