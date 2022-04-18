@@ -29,6 +29,7 @@
 
 ### 📰 Latest Blog Posts (Farsi)
 <!-- BLOG-POST-LIST:START -->
+- [دانش کتاب یا دانش برنامه‌نویسی](https://miraddo.ir/book-knowledge-or-programming-knowledge/)
 - [ساختار پروژه، سیاست‌ها و مسیر توسعه](https://miraddo.ir/project-layers-polices-and-guidelines/)
 - [یادگیری زبان Go طراحی مسیر یادگیری – بخش دوم](https://miraddo.ir/go-design-guidelines-part2/)
 - [یادگیری زبان Go طراحی مسیر یادگیری – بخش اول](https://miraddo.ir/go-design-guidelines-part1/)
