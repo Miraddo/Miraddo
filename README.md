@@ -6,7 +6,7 @@
 ## I'd like to be an Engineer, a person who try to be success in his life.
 
 - 🔭 I’m currently working on [tcp](https://github.com/miraddo/tcp)
-- 🌱 I’m currently learning Go, 
+- 🌱 I’m currently eating Go, 🍴
 - 📝 I regularly write articles on [miraddo.ir](https://miraddo.ir)
 - 🥅 2021 Goals: Contribute, and learn more. 
 - ⚡ Fun fact: I love to play piano and traveling
