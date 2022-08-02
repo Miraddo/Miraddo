@@ -11,8 +11,8 @@
 - Fun fact: I love to play piano and traveling
 
 ### Languages and Tools:
-
-- Languages: C, Golang, Zig, Python, Bash, SQL
+  
+- Languages: Golang, Python, Bash, SQL [[I plan to learn: C, Zig in my free time.]]
 - Tools: Git, Docker, Postman
 
 ---
