@@ -30,9 +30,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [گو ماژول &lpar; بخش سوم&rpar;](https://miraddo.ir/go-module-part-three/)
 - [گو ماژول &lpar; بخش دوم&rpar;](https://miraddo.ir/go-module-part-two/)
+- [گو ماژول &lpar;بخش اول&rpar;](https://miraddo.ir/go-module-part-one/)
 - [دانش کتاب یا دانش برنامه‌نویسی](https://miraddo.ir/book-knowledge-or-programming-knowledge/)
 - [ساختار پروژه، سیاست‌ها و مسیر توسعه](https://miraddo.ir/project-layers-polices-and-guidelines/)
-- [یادگیری زبان Go طراحی مسیر یادگیری – بخش دوم](https://miraddo.ir/go-design-guidelines-part2/)
 <!-- BLOG-POST-LIST:END -->
 
 [more posts...](https://miraddo.ir)
