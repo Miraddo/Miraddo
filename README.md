@@ -28,10 +28,11 @@
 
 ### Latest Blog Posts (Farsi)
 <!-- BLOG-POST-LIST:START -->
+- [گو ماژول &lpar; بخش سوم&rpar;](https://miraddo.ir/go-module-part-three/)
+- [گو ماژول &lpar; بخش دوم&rpar;](https://miraddo.ir/go-module-part-two/)
 - [دانش کتاب یا دانش برنامه‌نویسی](https://miraddo.ir/book-knowledge-or-programming-knowledge/)
 - [ساختار پروژه، سیاست‌ها و مسیر توسعه](https://miraddo.ir/project-layers-polices-and-guidelines/)
 - [یادگیری زبان Go طراحی مسیر یادگیری – بخش دوم](https://miraddo.ir/go-design-guidelines-part2/)
-- [یادگیری زبان Go طراحی مسیر یادگیری – بخش اول](https://miraddo.ir/go-design-guidelines-part1/)
 <!-- BLOG-POST-LIST:END -->
 
 [more posts...](https://miraddo.ir)
