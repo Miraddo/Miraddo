@@ -28,11 +28,9 @@
 
 ### Latest Blog Posts (Farsi)
 <!-- BLOG-POST-LIST:START -->
-- [گو ماژول &lpar; بخش سوم&rpar;](https://miraddo.ir/go-module-part-three/)
-- [گو ماژول &lpar; بخش دوم&rpar;](https://miraddo.ir/go-module-part-two/)
-- [گو ماژول &lpar;بخش اول&rpar;](https://miraddo.ir/go-module-part-one/)
-- [دانش کتاب یا دانش برنامه‌نویسی](https://miraddo.ir/book-knowledge-or-programming-knowledge/)
-- [ساختار پروژه، سیاست‌ها و مسیر توسعه](https://miraddo.ir/project-layers-polices-and-guidelines/)
+- [Local AI with Podman AI Lab](https://medium.com/@miraddo/discovering-instructlab-a-journey-into-local-ai-with-podman-ai-lab-ba80fa68316a?source=rss-5d4c56167c96------2)
+- [AI is not ChatGPT](https://medium.com/@miraddo/ai-is-not-chatgpt-67a9a23ccdff?source=rss-5d4c56167c96------2)
+- [Rejection will kill motivation](https://medium.com/@miraddo/rejection-will-kill-motivation-fdf68b01561c?source=rss-5d4c56167c96------2)
 <!-- BLOG-POST-LIST:END -->
 
 [more posts...](https://miraddo.ir)
