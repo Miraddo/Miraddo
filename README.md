@@ -8,12 +8,12 @@
 
 - I’m currently working on [netlib](https://github.com/miraddo/netlib)
 - I regularly write articles on [miraddo.com](https://miraddo.com)
-- Fun fact: I love to play piano and traveling
 
 ### Languages and Tools:
   
-- Languages: Golang, Python, Bash, SQL [[I plan to learn: C, Zig in my free time.]]
-- Tools: Git, Docker, Postman
+- Languages: Golang, Python, Bash, SQL, C Language.
+- OS: Linux (personal), Windows, MacOS
+- Tools: Git, Docker, Insomnia
 
 ---
 
