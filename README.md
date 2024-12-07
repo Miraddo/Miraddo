@@ -1,13 +1,13 @@
 ### Hi there, I'm Milad - [ [Miraddo](https://miraddo.ir) ]
 
-[![Website](https://img.shields.io/website?label=miraddo.ir&style=for-the-badge&url=https%3A%2F%2FMiraddo.ir)](https://miraddo.ir)
+[![Website](https://img.shields.io/website?label=miraddo.com&style=for-the-badge&url=https%3A%2F%2FMiraddo.com)](https://miraddo.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Miraddo_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FMiraddo_&screen_name=Miraddo_)
 [![Linkedin Profile](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miraddo)
 
 ## I'd like to be an Engineer, a person who try to be success in his life.
 
 - I’m currently working on [netlib](https://github.com/miraddo/netlib)
-- I regularly write articles on [miraddo.ir](https://miraddo.ir)
+- I regularly write articles on [miraddo.com](https://miraddo.com)
 - Fun fact: I love to play piano and traveling
 
 ### Languages and Tools:
@@ -43,6 +43,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miraddo)
 
 
-[website]: https://miraddo.ir
+[website]: https://miraddo.com
 [twitter]: https://twitter.com/Miraddo_
 [linkedin]: https://www.linkedin.com/in/miraddo/
