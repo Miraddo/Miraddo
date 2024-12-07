@@ -1,4 +1,4 @@
-### Hi there, I'm Milad - [ [Miraddo](https://miraddo.ir) ]
+### Hi there, I'm Milad - [ [Miraddo](https://miraddo.com) ]
 
 [![Website](https://img.shields.io/website?label=miraddo.com&style=for-the-badge&url=https%3A%2F%2FMiraddo.com)](https://miraddo.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Miraddo_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FMiraddo_&screen_name=Miraddo_)
@@ -33,7 +33,7 @@
 - [Rejection will kill motivation](https://medium.com/@miraddo/rejection-will-kill-motivation-fdf68b01561c?source=rss-5d4c56167c96------2)
 <!-- BLOG-POST-LIST:END -->
 
-[more posts...](https://miraddo.ir)
+[more posts...](https://miraddo.com)
 
 
 ---
