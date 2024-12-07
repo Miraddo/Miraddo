@@ -26,7 +26,7 @@
 
 ---
 
-### Latest Blog Posts (Farsi)
+### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Local AI with Podman AI Lab](https://medium.com/@miraddo/discovering-instructlab-a-journey-into-local-ai-with-podman-ai-lab-ba80fa68316a?source=rss-5d4c56167c96------2)
 - [AI is not ChatGPT](https://medium.com/@miraddo/ai-is-not-chatgpt-67a9a23ccdff?source=rss-5d4c56167c96------2)
